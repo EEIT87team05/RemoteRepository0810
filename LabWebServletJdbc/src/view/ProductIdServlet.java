@@ -29,11 +29,11 @@ public class ProductIdServlet extends HttpServlet {
 		String temp = request.getParameter("id");
 		int id = 0;
 		if(temp==null || temp.trim().length()==0) {
-			output.append("ID是必要欄位");
+			output.append("ID是必要欄位YES");
 		} else {
 			id = ProductBean.convertInt(temp);
 			if(id==-1000) {
-				output.append("ID必需是數字");
+				output.append("ID必需是數字NO");
 			}
 		}
 		if(output!=null && output.length()!=0) {
