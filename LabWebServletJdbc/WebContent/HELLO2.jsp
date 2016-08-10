@@ -9,15 +9,11 @@
 </head>
 <body>
 
-<h3>Welcome ${user.email}</h3>
 
-<h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
-<h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
 
-<h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
-<h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
-<h3><a href="<c:url value="/pages/product.jsp" />">Poduct1</a></h3>
-=======
+<h3>HEllo</h3>
+<h3>HEllo</h3>
+<h3>HEllo</h3>
 
 
 </body>
