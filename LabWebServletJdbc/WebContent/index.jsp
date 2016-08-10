@@ -13,8 +13,12 @@
 
 <h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
 <h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
+<<<<<<< HEAD
 <h3><a href="<c:url value="" />">Test1</a></h3>
 <h3><a href="<c:url value="" />">Test2</a></h3>
 <h3><a href="<c:url value="" />">Test3</a></h3>
+=======
+
+>>>>>>> branch 'master' of https://github.com/EEIT87team05/RemoteRepository0810.git
 </body>
 </html>
